@@ -1,4 +1,6 @@
-# Group Project for CSC 221 2021FA
+#CSC221-bmanandharpant-GroupProject
+
+ ##Group Project for CSC 221 2021FA
 
 **Owner**: Bhagabati Manandhar Pant, bmanandharpant@my.waketech.edu
 
