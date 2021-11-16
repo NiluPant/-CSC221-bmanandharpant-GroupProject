@@ -6,4 +6,4 @@
 
 **Webscraped URL**: Median income - Wikipedia/Median income, https://en.wikipedia.org/wiki/Median_income
 
-**Collaborator **: Sterling Foote, shfoote@my.waketech.edu 
+**Collaborator**: Sterling Foote, shfoote@my.waketech.edu 
