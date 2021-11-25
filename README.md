@@ -9,4 +9,4 @@ __Project Description:__ Web Scraping group project to gather data from the Medi
 
 __Webscraped URL:__ Median income - Wikipedia/Median income [https://en.wikipedia.org/wiki/Median_income]
 
-__Collaborator:__ Sterling Foote (shfoote@my.waketech.edu) 
+__Collaborator:__ Sterling Foote (shfoote@my.waketech.edu) ACCEPTED
